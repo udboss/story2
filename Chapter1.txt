@@ -1,1 +1,2 @@
-This is main text 
+This is main branch text 
+This is external branch text
